@@ -8,3 +8,4 @@ matplotlib
 seaborn
 xgboost
 catboost
+shap
